@@ -1,0 +1,4 @@
+interface:
+  display_name: "Halo Reach Modding"
+  short_description: "Build and diagnose Reach MCC custom content"
+  default_prompt: "Use $halo-reach-modding to edit, build, verify, and package this Halo Reach MCC mod."

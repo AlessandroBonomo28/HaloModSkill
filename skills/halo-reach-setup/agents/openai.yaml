@@ -1,0 +1,4 @@
+interface:
+  display_name: "Halo Reach Setup"
+  short_description: "Set up a reproducible Halo Reach modding kit"
+  default_prompt: "Use $halo-reach-setup to prepare and verify a Halo Reach MCC modding workspace."

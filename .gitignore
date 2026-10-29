@@ -1,0 +1,21 @@
+# Proprietary or generated Halo content
+*.map
+*.scenario
+*.scenario_*_resource
+*.tag
+*.cache
+*.exe
+*.dll
+data/
+tags/
+maps/
+cache/
+packages/
+
+# Local build state
+*.log
+*.bak
+*.tmp
+.local/
+Thumbs.db
+.DS_Store
